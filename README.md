@@ -1,4 +1,7 @@
-### Hi there 👋
+### PopoTheGamer
+
+Well, nothing usual here. Just an normal GitHub...
+May gonna update more if i have more ideas. 
 
 <!--
 **PopoTheGamer/PopoTheGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
