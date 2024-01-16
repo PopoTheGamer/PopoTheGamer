@@ -1,7 +1,7 @@
 ### Well, hello there
 
 - Well, nothing usual here. Just an normal GitHub
-- May gonna update more if i have more ideas 🌱
+- May gonna update more if i have more ideas and things about what did i've done 🌱
 
 <!--
 **PopoTheGamer/PopoTheGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
